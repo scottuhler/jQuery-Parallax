@@ -5,7 +5,7 @@ jQuery Parallax is a script that simulates the parallax effect as seen on [nikeb
 
 Plugin: jQuery Parallax  
 Version: 1.1.3
-Author: [Ian Lunn](http://www.ianlunn.co.uk/)  
+Author: [Ian Lunn](http://www.ianlunn.co.uk/), [Scott Uhler] (http://www.scottuhler.com)  
 Twitter: [@IanLunn](http://www.twitter.com/IanLunn)
 Demo: [jQuery Vertical Parallax Demo](http://www.ianlunn.co.uk/plugins/jquery-parallax/)  
 Tutorial: [Nikebetterworld Parallax Effect Demo](http://www.ianlunn.co.uk/blog/code-tutorials/recreate-nikebetterworld-parallax/)  
@@ -16,6 +16,9 @@ http://www.gnu.org/licenses/gpl.html
 
 Updates
 -------
+
+25/7/2013 - Added a stop method to allow the parallax to be turned on/off dynamically
+	- Added an option to limit the panning of the image to the container div's upper and lower bounds
 
 12/6/2012 - Fixed a few demo bugs and made easier to use
     - Fixed a bug that prevented the third section from working
